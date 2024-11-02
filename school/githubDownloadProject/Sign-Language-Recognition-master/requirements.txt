@@ -1,6 +1,0 @@
-matplotlib
-matplotlib-inline
-numpy
-opencv-python
-
-
